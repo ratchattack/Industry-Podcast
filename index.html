@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Industry Intel Podcast</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+           background: #0f1117; color: #e8eaf0; min-height: 100vh;
+           display: flex; align-items: center; justify-content: center; padding: 2rem; }
+    .card { max-width: 520px; text-align: center; }
+    .badge { display: inline-block; background: #1d4ed8; color: #fff;
+             font-size: 0.75rem; font-weight: 600; letter-spacing: 0.08em;
+             text-transform: uppercase; padding: 4px 12px; border-radius: 999px;
+             margin-bottom: 1.5rem; }
+    h1 { font-size: 2.25rem; font-weight: 700; margin-bottom: 0.75rem; }
+    .subtitle { color: #94a3b8; font-size: 1rem; line-height: 1.6; margin-bottom: 2rem; }
+    .feed-url { background: #1e2130; border: 1px solid #2d3148;
+                border-radius: 8px; padding: 1rem 1.25rem;
+                font-family: monospace; font-size: 0.85rem; color: #60a5fa;
+                word-break: break-all; margin-bottom: 2rem; }
+    .buttons { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
+    .btn { display: inline-block; padding: 0.65rem 1.5rem; border-radius: 8px;
+           font-weight: 600; font-size: 0.9rem; text-decoration: none;
+           transition: opacity 0.15s; }
+    .btn:hover { opacity: 0.85; }
+    .btn-primary { background: #1d4ed8; color: #fff; }
+    .btn-secondary { background: #1e2130; color: #e8eaf0;
+                     border: 1px solid #2d3148; }
+    .topics { margin-top: 2.5rem; }
+    .topics h3 { color: #64748b; font-size: 0.75rem; text-transform: uppercase;
+                 letter-spacing: 0.1em; margin-bottom: 0.75rem; }
+    .topic-tags { display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center; }
+    .tag { background: #1e2130; border: 1px solid #2d3148; color: #94a3b8;
+           font-size: 0.75rem; padding: 3px 10px; border-radius: 999px; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="badge">Weekly Podcast</div>
+    <h1>Industry Intel</h1>
+    <p class="subtitle">
+      Weekly audio briefing on site selection, economic development,
+      and industrial real estate — curated from 29 industry sources.
+    </p>
+
+    <div class="feed-url">
+      https://ratchattack.github.io/industry-podcast/feed.xml
+    </div>
+
+    <div class="buttons">
+      <a class="btn btn-primary"
+         href="https://podcasts.apple.com/search?term=industry+intel+ratchford">
+        Listen on Apple Podcasts
+      </a>
+      <a class="btn btn-secondary"
+         href="feed.xml">
+        RSS Feed
+      </a>
+    </div>
+
+    <div class="topics">
+      <h3>Topics Covered</h3>
+      <div class="topic-tags">
+        <span class="tag">Site Selection</span>
+        <span class="tag">Economic Development</span>
+        <span class="tag">Industrial Real Estate</span>
+        <span class="tag">Manufacturing</span>
+        <span class="tag">Logistics</span>
+        <span class="tag">Workforce</span>
+        <span class="tag">Incentives</span>
+        <span class="tag">Megasites</span>
+        <span class="tag">Data Centers</span>
+        <span class="tag">Reshoring</span>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
