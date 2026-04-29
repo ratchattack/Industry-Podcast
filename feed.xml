@@ -28,5 +28,18 @@
 
     <!-- Episodes are added here automatically by publish_podcast.py -->
 
-  </channel>
+  
+  <item>
+    <title>Amazon's 12 Billion Dollar Mississippi Power Play</title>
+    <description><![CDATA[Industry Intel Weekly Brief — April 22–29, 2026. Top stories: AbbVie's $1.4B NC pharma campus, Ferrara's $675M SC plant, Air Liquide's $350M Louisiana expansion, Iran war supply chain impacts, data center power crunch, and key federal policy moves.]]></description>
+    <pubDate>Wed, 29 Apr 2026 17:59:39 +0000</pubDate>
+    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-amazon-s-12-billion-dollar-mississippi-power-play/Amazon_s_12_Billion_Dollar_Mississippi_Power_Play.m4a" length="90421412" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-amazon-s-12-billion-dollar-mississippi-power-play/Amazon_s_12_Billion_Dollar_Mississippi_Power_Play.m4a</guid>
+    <itunes:title>Amazon's 12 Billion Dollar Mississippi Power Play</itunes:title>
+    <itunes:summary><![CDATA[Industry Intel Weekly Brief — April 22–29, 2026. Top stories: AbbVie's $1.4B NC pharma campus, Ferrara's $675M SC plant, Air Liquide's $350M Louisiana expansion, Iran war supply chain impacts, data center power crunch, and key federal policy moves.]]></itunes:summary>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
 </rss>
