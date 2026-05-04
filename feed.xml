@@ -41,5 +41,18 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+
+  <item>
+    <title>AI Is Breaking the Power Grid</title>
+    <description><![CDATA[This week: AI-driven data center demand is straining the grid, Amazon and Tesla lead multi-billion dollar expansions, and the American South and Midwest are winning the reshoring race.]]></description>
+    <pubDate>Mon, 04 May 2026 14:16:00 +0000</pubDate>
+    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-ai-is-breaking-the-power-grid/AI_is_Breaking_the_Power_Grid.m4a" length="42305935" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-ai-is-breaking-the-power-grid/AI_is_Breaking_the_Power_Grid.m4a</guid>
+    <itunes:title>AI Is Breaking the Power Grid</itunes:title>
+    <itunes:summary><![CDATA[This week: AI-driven data center demand is straining the grid, Amazon and Tesla lead multi-billion dollar expansions, and the American South and Midwest are winning the reshoring race.]]></itunes:summary>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
