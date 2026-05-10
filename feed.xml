@@ -54,5 +54,18 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+
+  <item>
+    <title>Industry Intel: Week of May 3–9, 2026</title>
+    <description><![CDATA[273 articles across site selection, economic development, industrial real estate, manufacturing, and energy — the week's biggest stories and what they mean for industrial development professionals.]]></description>
+    <pubDate>Sun, 10 May 2026 21:31:33 +0000</pubDate>
+    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-may-3---9/2026.-.Week.of.May.3.-.9.m4a" length="89823549" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-may-3---9/2026.-.Week.of.May.3.-.9.m4a</guid>
+    <itunes:title>Industry Intel: Week of May 3–9, 2026</itunes:title>
+    <itunes:summary><![CDATA[273 articles across site selection, economic development, industrial real estate, manufacturing, and energy — the week's biggest stories and what they mean for industrial development professionals.]]></itunes:summary>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
