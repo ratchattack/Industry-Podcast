@@ -28,46 +28,6 @@
 
     <!-- Episodes are added here automatically by publish_podcast.py -->
 
-  
-  <item>
-    <title>Amazon's 12 Billion Dollar Mississippi Power Play</title>
-    <description><![CDATA[Industry Intel Weekly Brief — April 22–29, 2026. Top stories: AbbVie's $1.4B NC pharma campus, Ferrara's $675M SC plant, Air Liquide's $350M Louisiana expansion, Iran war supply chain impacts, data center power crunch, and key federal policy moves.]]></description>
-    <pubDate>Wed, 29 Apr 2026 17:59:39 +0000</pubDate>
-    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-amazon-s-12-billion-dollar-mississippi-power-play/Amazon_s_12_Billion_Dollar_Mississippi_Power_Play.m4a" length="90421412" type="audio/mpeg"/>
-    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-amazon-s-12-billion-dollar-mississippi-power-play/Amazon_s_12_Billion_Dollar_Mississippi_Power_Play.m4a</guid>
-    <itunes:title>Amazon's 12 Billion Dollar Mississippi Power Play</itunes:title>
-    <itunes:summary><![CDATA[Industry Intel Weekly Brief — April 22–29, 2026. Top stories: AbbVie's $1.4B NC pharma campus, Ferrara's $675M SC plant, Air Liquide's $350M Louisiana expansion, Iran war supply chain impacts, data center power crunch, and key federal policy moves.]]></itunes:summary>
-    <itunes:episode>1</itunes:episode>
-    <itunes:episodeType>full</itunes:episodeType>
-    <itunes:explicit>false</itunes:explicit>
-  </item>
-
-  <item>
-    <title>AI Is Breaking the Power Grid</title>
-    <description><![CDATA[This week: AI-driven data center demand is straining the grid, Amazon and Tesla lead multi-billion dollar expansions, and the American South and Midwest are winning the reshoring race.]]></description>
-    <pubDate>Mon, 04 May 2026 14:16:00 +0000</pubDate>
-    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-ai-is-breaking-the-power-grid/AI_is_Breaking_the_Power_Grid.m4a" length="42305935" type="audio/mpeg"/>
-    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-ai-is-breaking-the-power-grid/AI_is_Breaking_the_Power_Grid.m4a</guid>
-    <itunes:title>AI Is Breaking the Power Grid</itunes:title>
-    <itunes:summary><![CDATA[This week: AI-driven data center demand is straining the grid, Amazon and Tesla lead multi-billion dollar expansions, and the American South and Midwest are winning the reshoring race.]]></itunes:summary>
-    <itunes:episode>2</itunes:episode>
-    <itunes:episodeType>full</itunes:episodeType>
-    <itunes:explicit>false</itunes:explicit>
-  </item>
-
-  <item>
-    <title>Industry Intel: Week of May 3–9, 2026</title>
-    <description><![CDATA[273 articles across site selection, economic development, industrial real estate, manufacturing, and energy — the week's biggest stories and what they mean for industrial development professionals.]]></description>
-    <pubDate>Sun, 10 May 2026 21:31:33 +0000</pubDate>
-    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-may-3---9/2026.-.Week.of.May.3.-.9.m4a" length="89823549" type="audio/mpeg"/>
-    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-may-3---9/2026.-.Week.of.May.3.-.9.m4a</guid>
-    <itunes:title>Industry Intel: Week of May 3–9, 2026</itunes:title>
-    <itunes:summary><![CDATA[273 articles across site selection, economic development, industrial real estate, manufacturing, and energy — the week's biggest stories and what they mean for industrial development professionals.]]></itunes:summary>
-    <itunes:episode>3</itunes:episode>
-    <itunes:episodeType>full</itunes:episodeType>
-    <itunes:explicit>false</itunes:explicit>
-  </item>
-
   <item>
     <title>Week of May 4-10, 2026</title>
     <description><![CDATA[This week's Industry Intel covers 276 stories across site selection, economic development, and industrial real estate. The deep dive focuses on Foreign Direct Investment — including major inbound manufacturing announcements, how tariff uncertainty is reshaping FDI flows, and what site selectors need to know about siting projects with foreign sponsors.]]></description>
