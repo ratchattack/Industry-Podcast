@@ -67,5 +67,18 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+
+  <item>
+    <title>Week of May 4-10, 2026</title>
+    <description><![CDATA[This week's Industry Intel covers 276 stories across site selection, economic development, and industrial real estate. The deep dive focuses on Foreign Direct Investment — including major inbound manufacturing announcements, how tariff uncertainty is reshaping FDI flows, and what site selectors need to know about siting projects with foreign sponsors.]]></description>
+    <pubDate>Mon, 11 May 2026 03:26:07 +0000</pubDate>
+    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-may-4-10/2026.-.Week.of.May.4-10.m4a" length="78202923" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-may-4-10/2026.-.Week.of.May.4-10.m4a</guid>
+    <itunes:title>Week of May 4-10, 2026</itunes:title>
+    <itunes:summary><![CDATA[This week's Industry Intel covers 276 stories across site selection, economic development, and industrial real estate. The deep dive focuses on Foreign Direct Investment — including major inbound manufacturing announcements, how tariff uncertainty is reshaping FDI flows, and what site selectors need to know about siting projects with foreign sponsors.]]></itunes:summary>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
