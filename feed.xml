@@ -53,5 +53,18 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+
+  <item>
+    <title>The Billion-Dollar Bet on Texas Drywall</title>
+    <description><![CDATA[USG stakes $1.1 billion on a Texas gypsum plant, a wave of foreign manufacturers breaks ground on US soil, and Washington routes $2 billion in fresh CHIPS Act funding to nine chipmakers.]]></description>
+    <pubDate>Sat, 23 May 2026 22:10:37 +0000</pubDate>
+    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-may-16---may-23/2026.-.Week.of.May.16.-.May.23.m4a" length="63905362" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-may-16---may-23/2026.-.Week.of.May.16.-.May.23.m4a</guid>
+    <itunes:title>The Billion-Dollar Bet on Texas Drywall</itunes:title>
+    <itunes:summary><![CDATA[USG stakes $1.1 billion on a Texas gypsum plant, a wave of foreign manufacturers breaks ground on US soil, and Washington routes $2 billion in fresh CHIPS Act funding to nine chipmakers.]]></itunes:summary>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
