@@ -66,5 +66,18 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+
+  <item>
+    <title>Week of May 24-31, 2026</title>
+    <description><![CDATA[This week: the talent barrier behind the industrial AI boom, a wave of billion-dollar plant and lab investments, and a state suing an automaker over a factory that never got built.]]></description>
+    <pubDate>Sun, 31 May 2026 22:25:04 +0000</pubDate>
+    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-may-24---may-31/2026.-.Week.of.May.24.-.May.31.m4a" length="69420594" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-may-24---may-31/2026.-.Week.of.May.24.-.May.31.m4a</guid>
+    <itunes:title>Week of May 24-31, 2026</itunes:title>
+    <itunes:summary><![CDATA[This week: the talent barrier behind the industrial AI boom, a wave of billion-dollar plant and lab investments, and a state suing an automaker over a factory that never got built.]]></itunes:summary>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
