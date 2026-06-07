@@ -79,5 +79,18 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+
+  <item>
+    <title>Week of May 31 - Jun 7, 2026</title>
+    <description><![CDATA[USA Rare Earth's .2B South Carolina magnet plant, a wave of billion-dollar rail and transit tunnels, and the AI data-center boom straining the PJM power grid.]]></description>
+    <pubDate>Sun, 07 Jun 2026 18:58:18 +0000</pubDate>
+    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-may-31---jun-07/2026.-.Week.of.May.31.-.Jun.07.m4a" length="63855310" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-may-31---jun-07/2026.-.Week.of.May.31.-.Jun.07.m4a</guid>
+    <itunes:title>Week of May 31 - Jun 7, 2026</itunes:title>
+    <itunes:summary><![CDATA[USA Rare Earth's .2B South Carolina magnet plant, a wave of billion-dollar rail and transit tunnels, and the AI data-center boom straining the PJM power grid.]]></itunes:summary>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
