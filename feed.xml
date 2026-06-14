@@ -92,5 +92,18 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+
+  <item>
+    <title>Week of Jun 07-14, 2026</title>
+    <description><![CDATA[Ingredion's .6 billion deal for Tate and Lyle, a wave of foreign manufacturers breaking ground across the South, and the workforce academies racing to staff the industrial build-out.]]></description>
+    <pubDate>Sun, 14 Jun 2026 22:56:48 +0000</pubDate>
+    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-jun-07---jun-14/2026.-.Week.of.Jun.07.-.Jun.14.m4a" length="52853465" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-jun-07---jun-14/2026.-.Week.of.Jun.07.-.Jun.14.m4a</guid>
+    <itunes:title>Week of Jun 07-14, 2026</itunes:title>
+    <itunes:summary><![CDATA[Ingredion's .6 billion deal for Tate and Lyle, a wave of foreign manufacturers breaking ground across the South, and the workforce academies racing to staff the industrial build-out.]]></itunes:summary>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
