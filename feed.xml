@@ -105,5 +105,18 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+
+  <item>
+    <title>Week of Jun 13-20, 2026</title>
+    <description><![CDATA[Amazon's  billion Missouri data center campus, a wave of foreign direct investment landing in the U.S., and automakers pivoting into defense manufacturing.]]></description>
+    <pubDate>Sat, 20 Jun 2026 21:29:23 +0000</pubDate>
+    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-jun-13---jun-20/2026.-.Week.of.Jun.13.-.Jun.20.m4a" length="82780906" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-jun-13---jun-20/2026.-.Week.of.Jun.13.-.Jun.20.m4a</guid>
+    <itunes:title>Week of Jun 13-20, 2026</itunes:title>
+    <itunes:summary><![CDATA[Amazon's  billion Missouri data center campus, a wave of foreign direct investment landing in the U.S., and automakers pivoting into defense manufacturing.]]></itunes:summary>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
