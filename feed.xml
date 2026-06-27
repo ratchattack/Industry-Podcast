@@ -118,5 +118,18 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+
+  <item>
+    <title>Week of Jun 20-27, 2026</title>
+    <description><![CDATA[A record year for industrial M&A and a 35 billion dollar defense order, the skilled-trades workforce squeeze, and a robotics and semiconductor building wave.]]></description>
+    <pubDate>Sat, 27 Jun 2026 16:31:38 +0000</pubDate>
+    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-jun-20---jun-27/2026.-.Week.of.Jun.20.-.Jun.27.m4a" length="39029758" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-jun-20---jun-27/2026.-.Week.of.Jun.20.-.Jun.27.m4a</guid>
+    <itunes:title>Week of Jun 20-27, 2026</itunes:title>
+    <itunes:summary><![CDATA[A record year for industrial M&A and a 35 billion dollar defense order, the skilled-trades workforce squeeze, and a robotics and semiconductor building wave.]]></itunes:summary>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
