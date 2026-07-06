@@ -131,5 +131,18 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+
+  <item>
+    <title>Week of Jun 28 - Jul 05, 2026</title>
+    <description><![CDATA[BMW completes its .7B Spartanburg expansion and Cal-Maine settles an egg price-fixing case, plus site-selection scorecards and 2026 metro rankings, billion-dollar deals from Rocket Lab-Iridium to CMA CGM-FedEx, and USMCA back in limbo.]]></description>
+    <pubDate>Mon, 06 Jul 2026 00:24:39 +0000</pubDate>
+    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-jun-28---jul-05/2026.-.Week.of.Jun.28.-.Jul.05.m4a" length="49104927" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-jun-28---jul-05/2026.-.Week.of.Jun.28.-.Jul.05.m4a</guid>
+    <itunes:title>Week of Jun 28 - Jul 05, 2026</itunes:title>
+    <itunes:summary><![CDATA[BMW completes its .7B Spartanburg expansion and Cal-Maine settles an egg price-fixing case, plus site-selection scorecards and 2026 metro rankings, billion-dollar deals from Rocket Lab-Iridium to CMA CGM-FedEx, and USMCA back in limbo.]]></itunes:summary>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
