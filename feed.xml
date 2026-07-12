@@ -144,5 +144,18 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+
+  <item>
+    <title>Week of Jul 05-12, 2026</title>
+    <description><![CDATA[Toyota's .6B Tacoma expansion in San Antonio, a tightening freight and cold-chain market, and a wave of foreign investment landing across the Southeast.]]></description>
+    <pubDate>Sun, 12 Jul 2026 21:48:50 +0000</pubDate>
+    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-jul-05---jul-12/2026.-.Week.of.Jul.05.-.Jul.12.m4a" length="84931695" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-jul-05---jul-12/2026.-.Week.of.Jul.05.-.Jul.12.m4a</guid>
+    <itunes:title>Week of Jul 05-12, 2026</itunes:title>
+    <itunes:summary><![CDATA[Toyota's .6B Tacoma expansion in San Antonio, a tightening freight and cold-chain market, and a wave of foreign investment landing across the Southeast.]]></itunes:summary>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
