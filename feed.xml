@@ -157,5 +157,18 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+
+  <item>
+    <title>Week of Jul 12-19, 2026</title>
+    <description><![CDATA[Meta commits over $50B to a North Louisiana data center campus, employers hold onto workers in a low-hire low-fire market as Ford reaches a tentative deal with Unifor and Hyundai workers strike, and New York becomes the first state to pause data center development.]]></description>
+    <pubDate>Sun, 19 Jul 2026 22:25:08 +0000</pubDate>
+    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-jul-12---jul-19/2026.-.Week.of.Jul.12.-.Jul.19.m4a" length="71068394" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-jul-12---jul-19/2026.-.Week.of.Jul.12.-.Jul.19.m4a</guid>
+    <itunes:title>Week of Jul 12-19, 2026</itunes:title>
+    <itunes:summary><![CDATA[Meta commits over $50B to a North Louisiana data center campus, employers hold onto workers in a low-hire low-fire market as Ford reaches a tentative deal with Unifor and Hyundai workers strike, and New York becomes the first state to pause data center development.]]></itunes:summary>
+    <itunes:episode>11</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
