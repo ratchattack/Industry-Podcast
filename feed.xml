@@ -170,5 +170,18 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+
+  <item>
+    <title>Week of Jul 19-26, 2026</title>
+    <description><![CDATA[Saronic's .2B autonomous shipyard lands in Brownsville, a bridge-and-water infrastructure surge from the Gordie Howe opening to the Key Bridge rebuild, and 50% tariffs on Canadian imports ripple into concrete and cement.]]></description>
+    <pubDate>Tue, 28 Jul 2026 02:47:07 +0000</pubDate>
+    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-jul-19---jul-26/2026.-.Week.of.Jul.19.-.Jul.26.m4a" length="62170158" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-jul-19---jul-26/2026.-.Week.of.Jul.19.-.Jul.26.m4a</guid>
+    <itunes:title>Week of Jul 19-26, 2026</itunes:title>
+    <itunes:summary><![CDATA[Saronic's .2B autonomous shipyard lands in Brownsville, a bridge-and-water infrastructure surge from the Gordie Howe opening to the Key Bridge rebuild, and 50% tariffs on Canadian imports ripple into concrete and cement.]]></itunes:summary>
+    <itunes:episode>12</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
