@@ -183,5 +183,18 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+
+  <item>
+    <title>Week of Jul 26 - Aug 02, 2026</title>
+    <description><![CDATA[The skilled trades pipeline emerges as the real constraint on industrial growth, Samsung and Broadcom sign a $200 billion AI memory deal, and utilities start squaring off against their own data center customers.]]></description>
+    <pubDate>Mon, 03 Aug 2026 01:20:54 +0000</pubDate>
+    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-jul-26---aug-02/2026.-.Week.of.Jul.26.-.Aug.02.m4a" length="84637992" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-jul-26---aug-02/2026.-.Week.of.Jul.26.-.Aug.02.m4a</guid>
+    <itunes:title>Week of Jul 26 - Aug 02, 2026</itunes:title>
+    <itunes:summary><![CDATA[The skilled trades pipeline emerges as the real constraint on industrial growth, Samsung and Broadcom sign a $200 billion AI memory deal, and utilities start squaring off against their own data center customers.]]></itunes:summary>
+    <itunes:episode>13</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
