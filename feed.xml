@@ -196,5 +196,18 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+
+  <item>
+    <title>Week of Aug 2-9, 2026</title>
+    <description><![CDATA[TSMC commits $100 billion to Arizona, Texas freezes data center interconnections against 474 gigawatts of requests, and the permitting bottleneck that lives at City Hall.]]></description>
+    <pubDate>Tue, 11 Aug 2026 00:18:34 +0000</pubDate>
+    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-aug-02---aug-09/2026.-.Week.of.Aug.02.-.Aug.09.m4a" length="66139072" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-aug-02---aug-09/2026.-.Week.of.Aug.02.-.Aug.09.m4a</guid>
+    <itunes:title>Week of Aug 2-9, 2026</itunes:title>
+    <itunes:summary><![CDATA[TSMC commits $100 billion to Arizona, Texas freezes data center interconnections against 474 gigawatts of requests, and the permitting bottleneck that lives at City Hall.]]></itunes:summary>
+    <itunes:episode>14</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
