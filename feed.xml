@@ -209,5 +209,18 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+
+  <item>
+    <title>Week of Aug 16-23, 2026</title>
+    <description><![CDATA[Tesla's $10 billion solar cell plant in Texas, a wave of foreign direct investment redrawing the North American industrial map, and how obsolete Cold War infrastructure is being reborn as AI data centers.]]></description>
+    <pubDate>Sun, 23 Aug 2026 21:55:46 +0000</pubDate>
+    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-aug-16---aug-23/2026.-.Week.of.Aug.16.-.Aug.23.m4a" length="49000342" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-aug-16---aug-23/2026.-.Week.of.Aug.16.-.Aug.23.m4a</guid>
+    <itunes:title>Week of Aug 16-23, 2026</itunes:title>
+    <itunes:summary><![CDATA[Tesla's $10 billion solar cell plant in Texas, a wave of foreign direct investment redrawing the North American industrial map, and how obsolete Cold War infrastructure is being reborn as AI data centers.]]></itunes:summary>
+    <itunes:episode>15</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
