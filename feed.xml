@@ -222,5 +222,18 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+
+  <item>
+    <title>Week of Aug 23-30, 2026</title>
+    <description><![CDATA[The escalating US-Canada tariff war, a wave of megaprojects from SpaceX's Louisiana spaceport to Bristol Myers Squibb's Texas campus, and North America's largest new transportation-infrastructure commitments.]]></description>
+    <pubDate>Mon, 31 Aug 2026 02:37:01 +0000</pubDate>
+    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-aug-23---aug-30/2026.-.Week.of.Aug.23.-.Aug.30.m4a" length="57604876" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-aug-23---aug-30/2026.-.Week.of.Aug.23.-.Aug.30.m4a</guid>
+    <itunes:title>Week of Aug 23-30, 2026</itunes:title>
+    <itunes:summary><![CDATA[The escalating US-Canada tariff war, a wave of megaprojects from SpaceX's Louisiana spaceport to Bristol Myers Squibb's Texas campus, and North America's largest new transportation-infrastructure commitments.]]></itunes:summary>
+    <itunes:episode>16</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
