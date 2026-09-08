@@ -235,5 +235,18 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+
+  <item>
+    <title>Week of Aug 30 - Sep 6, 2026</title>
+    <description><![CDATA[GE Appliances' $1 billion move of production from Mexico to Louisville leads a broad reshoring wave, foreign manufacturers from SK hynix to Sam Dong pick smaller U.S. and Canadian cities, and data centers turn to small modular nuclear and geothermal to secure power.]]></description>
+    <pubDate>Tue, 08 Sep 2026 00:20:10 +0000</pubDate>
+    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-aug-30---sep-06/2026.-.Week.of.Aug.30.-.Sep.06.m4a" length="70347154" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-aug-30---sep-06/2026.-.Week.of.Aug.30.-.Sep.06.m4a</guid>
+    <itunes:title>Week of Aug 30 - Sep 6, 2026</itunes:title>
+    <itunes:summary><![CDATA[GE Appliances' $1 billion move of production from Mexico to Louisville leads a broad reshoring wave, foreign manufacturers from SK hynix to Sam Dong pick smaller U.S. and Canadian cities, and data centers turn to small modular nuclear and geothermal to secure power.]]></itunes:summary>
+    <itunes:episode>17</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
