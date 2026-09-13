@@ -248,5 +248,18 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+
+  <item>
+    <title>Week of Sep 06-13, 2026</title>
+    <description><![CDATA[GE Aerospace's $12 billion move to buy its own castings supplier, a split pair of environmental-liability rulings reshaping where heavy industry can site, and the labor paradox of billion-dollar plants rising as legacy workers get laid off.]]></description>
+    <pubDate>Sun, 13 Sep 2026 19:49:04 +0000</pubDate>
+    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-sep-06---sep-13/2026.-.Week.of.Sep.06.-.Sep.13.m4a" length="80580812" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-sep-06---sep-13/2026.-.Week.of.Sep.06.-.Sep.13.m4a</guid>
+    <itunes:title>Week of Sep 06-13, 2026</itunes:title>
+    <itunes:summary><![CDATA[GE Aerospace's $12 billion move to buy its own castings supplier, a split pair of environmental-liability rulings reshaping where heavy industry can site, and the labor paradox of billion-dollar plants rising as legacy workers get laid off.]]></itunes:summary>
+    <itunes:episode>18</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
