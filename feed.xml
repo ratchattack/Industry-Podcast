@@ -261,5 +261,18 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+
+  <item>
+    <title>Week of Sep 13-20, 2026</title>
+    <description><![CDATA[Coca-Cola's  billion bet on localizing U.S. production, a wave of multi-billion-dollar civil megaprojects from New York's Second Avenue subway to new ballparks and West Coast ports, and the reshoring of critical hardware through Honda's rare-earth-free magnets and a new Mississippi transformer plant.]]></description>
+    <pubDate>Mon, 21 Sep 2026 00:02:41 +0000</pubDate>
+    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-sep-13---sep-20/2026.-.Week.of.Sep.13.-.Sep.20.m4a" length="77399509" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-sep-13---sep-20/2026.-.Week.of.Sep.13.-.Sep.20.m4a</guid>
+    <itunes:title>Week of Sep 13-20, 2026</itunes:title>
+    <itunes:summary><![CDATA[Coca-Cola's  billion bet on localizing U.S. production, a wave of multi-billion-dollar civil megaprojects from New York's Second Avenue subway to new ballparks and West Coast ports, and the reshoring of critical hardware through Honda's rare-earth-free magnets and a new Mississippi transformer plant.]]></itunes:summary>
+    <itunes:episode>19</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
