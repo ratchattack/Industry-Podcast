@@ -300,5 +300,18 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+
+  <item>
+    <title>Week of Oct 04-11, 2026</title>
+    <description><![CDATA[Anduril's .6B Navy shipyard in Maryland, a wave of third-party logistics consolidation led by CH Robinson's .8B RXO deal, and Bayer's .2B pharmaceutical bet on Ohio.]]></description>
+    <pubDate>Sun, 11 Oct 2026 15:26:16 +0000</pubDate>
+    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-oct-04---oct-11/2026.-.Week.of.Oct.04.-.Oct.11.m4a" length="76168789" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-oct-04---oct-11/2026.-.Week.of.Oct.04.-.Oct.11.m4a</guid>
+    <itunes:title>Week of Oct 04-11, 2026</itunes:title>
+    <itunes:summary><![CDATA[Anduril's .6B Navy shipyard in Maryland, a wave of third-party logistics consolidation led by CH Robinson's .8B RXO deal, and Bayer's .2B pharmaceutical bet on Ohio.]]></itunes:summary>
+    <itunes:episode>22</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
