@@ -313,5 +313,18 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+
+  <item>
+    <title>Week of Oct 11-18, 2026</title>
+    <description><![CDATA[GlobalFoundries' $21 billion New York chip build, a wave of foreign manufacturers reshoring to North America, and a $30.7 billion surge in U.S. defense production.]]></description>
+    <pubDate>Mon, 19 Oct 2026 01:42:18 +0000</pubDate>
+    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-oct-11---oct-18-v4/2026.-.Week.of.Oct.11.-.Oct.18.v4.m4a" length="51223594" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-oct-11---oct-18-v4/2026.-.Week.of.Oct.11.-.Oct.18.v4.m4a</guid>
+    <itunes:title>Week of Oct 11-18, 2026</itunes:title>
+    <itunes:summary><![CDATA[GlobalFoundries' $21 billion New York chip build, a wave of foreign manufacturers reshoring to North America, and a $30.7 billion surge in U.S. defense production.]]></itunes:summary>
+    <itunes:episode>23</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
