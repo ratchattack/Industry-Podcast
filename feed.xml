@@ -339,5 +339,18 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+
+  <item>
+    <title>Week of Oct 25 - Nov 01, 2026</title>
+    <description><![CDATA[Audi's first U.S. plant in Middle Georgia, a run of water, transit and freight rail projects, and Meta helping finance a low-carbon cement plant.]]></description>
+    <pubDate>Sun, 01 Nov 2026 21:32:58 +0000</pubDate>
+    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-oct-25---nov-01/2026.-.Week.of.Oct.25.-.Nov.01.m4a" length="125341673" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-oct-25---nov-01/2026.-.Week.of.Oct.25.-.Nov.01.m4a</guid>
+    <itunes:title>Week of Oct 25 - Nov 01, 2026</itunes:title>
+    <itunes:summary><![CDATA[Audi's first U.S. plant in Middle Georgia, a run of water, transit and freight rail projects, and Meta helping finance a low-carbon cement plant.]]></itunes:summary>
+    <itunes:episode>25</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
