@@ -352,5 +352,18 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+
+  <item>
+    <title>Week of Nov 01-07, 2026</title>
+    <description><![CDATA[Honeywell Aerospace's $500 million Tempe expansion, a workforce segment from construction quits to Deere callbacks, and Tutor Perini's choice to pass on data center work.]]></description>
+    <pubDate>Sat, 07 Nov 2026 22:30:51 +0000</pubDate>
+    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-nov-01---nov-07/2026.-.Week.of.Nov.01.-.Nov.07.m4a" length="48176758" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-nov-01---nov-07/2026.-.Week.of.Nov.01.-.Nov.07.m4a</guid>
+    <itunes:title>Week of Nov 01-07, 2026</itunes:title>
+    <itunes:summary><![CDATA[Honeywell Aerospace's $500 million Tempe expansion, a workforce segment from construction quits to Deere callbacks, and Tutor Perini's choice to pass on data center work.]]></itunes:summary>
+    <itunes:episode>26</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
