@@ -365,5 +365,18 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+
+  <item>
+    <title>Week of Nov 08-14, 2026</title>
+    <description><![CDATA[Honda's $3 billion hybrid plant in Ohio, a wave of foreign investment from BASF, OPmobility, VITREUS and Acumen, and Canada's fight with Stellantis over the Brampton plant.]]></description>
+    <pubDate>Sun, 15 Nov 2026 21:24:40 +0000</pubDate>
+    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-nov-08---nov-14/2026.-.Week.of.Nov.08.-.Nov.14.m4a" length="17944366" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-nov-08---nov-14/2026.-.Week.of.Nov.08.-.Nov.14.m4a</guid>
+    <itunes:title>Week of Nov 08-14, 2026</itunes:title>
+    <itunes:summary><![CDATA[Honda's $3 billion hybrid plant in Ohio, a wave of foreign investment from BASF, OPmobility, VITREUS and Acumen, and Canada's fight with Stellantis over the Brampton plant.]]></itunes:summary>
+    <itunes:episode>27</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
