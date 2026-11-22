@@ -378,5 +378,18 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+
+  <item>
+    <title>Week of Nov 15-22, 2026</title>
+    <description><![CDATA[GlobalFoundries breaks ground on a new chip fab in New York, a segment on ports, rail tunnels, bridges and airports, and Google's bet on superhot geothermal power in Oregon.]]></description>
+    <pubDate>Sun, 22 Nov 2026 19:16:18 +0000</pubDate>
+    <enclosure url="https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-nov-15---nov-22/2026.-.Week.of.Nov.15.-.Nov.22.m4a" length="25140143" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://github.com/ratchattack/Industry-Podcast/releases/download/audio-2026---week-of-nov-15---nov-22/2026.-.Week.of.Nov.15.-.Nov.22.m4a</guid>
+    <itunes:title>Week of Nov 15-22, 2026</itunes:title>
+    <itunes:summary><![CDATA[GlobalFoundries breaks ground on a new chip fab in New York, a segment on ports, rail tunnels, bridges and airports, and Google's bet on superhot geothermal power in Oregon.]]></itunes:summary>
+    <itunes:episode>28</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
